@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "Models/letters/letters"
+	"$alphatest" 1
+
+"Proxies"
+   {
+	"EntityRandom"
+           	 {
+                "scale" "19"
+                "resultVar" "$frame"
+               	}
+   }
+}

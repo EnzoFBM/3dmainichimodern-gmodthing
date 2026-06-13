@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/ghillie/bag"
+	"$halflambert" 1
+	"$nocull" 1
+}

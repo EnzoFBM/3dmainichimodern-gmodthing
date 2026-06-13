@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/ghillie/monk_sheet"
+	"$halflambert" 1
+}
