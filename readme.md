@@ -1,7 +1,7 @@
 # 3D Mainichi Modern Gmod Assets
-This repository contains the work files for the custom Garry's Mod models I made for episode 3 of 3D Mainichi Modern, along with a bonus unused Thompson model.
+This repository contains the work files for the custom Garry's Mod models I made for [episode 3](https://www.youtube.com/watch?v=S5VTtGSMuFo) of 3D Mainichi Modern, along with a bonus unused Thompson model.
 
-Video goes here
+
 
 If you just want to play with the models in Garry's Mod, get them on the Steam Workshop [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3743707958).
 
