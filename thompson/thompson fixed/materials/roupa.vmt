@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models\thompson\thompsongreen"
+	"$halflambert" 1
+	"$nocull" 1
+}
